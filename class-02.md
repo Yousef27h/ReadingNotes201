@@ -29,11 +29,11 @@ The key to understanding how **CSS** works is to imagine that there is an invisi
 CSS works by associating rules with HTML elements.These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
 
 
-![CSS](/CSSparts.JPG)
+![CSS](/img/CSSparts.JPG)
 
 CSS declarations sit inside curly brackets and each is made up of two parts: a **property** and a **value**, separated by a colon. You can specify several properties in one declaration, eachseparated by a semi-colon.
 
-![CSS2](/CSS2.JPG)
+![CSS2](/img/CSS2.JPG)
 
 # JavaScript
 
@@ -43,7 +43,7 @@ You should write **comments** to explain what your code does. They help make you
 
 A script will have to temporarily store the bits of information it needs to do its job. It can store this data in **variables**. 
 
-![JS](/JS.JPG)
+![JS](/img/JS.JPG)
 
 JavaScript distinguishes between numbers (NUMERIC DATA TYPE), strings (STRING DATA TYPE), and true or false values known as Booleans (BOOLEAN DATA TYPE). 
 
