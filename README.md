@@ -17,7 +17,7 @@ This repository contains reading notes summarize the reading tasks during 201 co
 | 9 | class-09 | [class-09](https://yousef27h.github.io/ReadingNotes201/class-09.html) |
 | 10 | class-10 | [class-10](https://yousef27h.github.io/ReadingNotes201/class-10.html) |
 | 11 | class-11 | [class-11](https://yousef27h.github.io/ReadingNotes201/class-11.html) |
-| 12 | - | - |
+| 12 | class-12 | [class-12](https://yousef27h.github.io/ReadingNotes201/class-12.html) |
 | 13 | - | - |
 | 14 | - | - |
 | 15 | - | - |
