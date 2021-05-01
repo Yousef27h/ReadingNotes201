@@ -41,8 +41,8 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 1 | class-01 | [React & Components Intro](https://yousef27h.github.io/reading-notes/301/class-01.html)|
 | 2 | class-02 | [State & Props](https://yousef27h.github.io/reading-notes/301/class-02.html)|
 | 3 | class-03 | [Passing Functions as Props](https://yousef27h.github.io/reading-notes/301/class-03.html)|
-| 4 | class-04 | |
-| 5 | class-05 | |
+| 4 | class-04 | [Forms](https://yousef27h.github.io/reading-notes/301/class-04.html)|
+| 5 | class-05 | [Thinking in React](https://yousef27h.github.io/reading-notes/301/class-05.html)|
 | 6 | class-06 |  |
 | 7 | class-07 | |
 | 8 | class-08 | |
