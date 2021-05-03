@@ -43,3 +43,7 @@ The URLs tell the browser that there's a concept, somewhere. A browser can then 
 "redirect" is the ability to talk to all machines about all the stuff that's on all the other machines.
 
 There are multiple "verbs" the protocol uses to talk to other machines, for example each of the systems would retrieve information from each other using a simple HTTP GET. If one system needs to add something to another system, it would use an HTTP verb of POST. If a system wants to replace something in another system, it uses an HTTP verb of PUT.
+
+## Things I want to know more about
+
+I want to know about API's.
