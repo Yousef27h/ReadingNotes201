@@ -43,7 +43,7 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 3 | class-03 | [Passing Functions as Props](https://yousef27h.github.io/reading-notes/301/class-03.html)|
 | 4 | class-04 | [Forms](https://yousef27h.github.io/reading-notes/301/class-04.html)|
 | 5 | class-05 | [Thinking in React](https://yousef27h.github.io/reading-notes/301/class-05.html)|
-| 6 | class-06 |  |
+| 6 | class-06 | [NODE.JS](https://yousef27h.github.io/reading-notes/301/class-06.html) |
 | 7 | class-07 | [REST](https://yousef27h.github.io/reading-notes/301/class-07.html)|
 | 8 | class-08 | [APIs](https://yousef27h.github.io/reading-notes/301/class-08.html)|
 | 9 | class-09 |[FUNCTIONAL PROGRAMMING](https://yousef27h.github.io/reading-notes/301/class-09.html)|
