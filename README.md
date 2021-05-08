@@ -45,9 +45,9 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 5 | class-05 | [Thinking in React](https://yousef27h.github.io/reading-notes/301/class-05.html)|
 | 6 | class-06 |  |
 | 7 | class-07 | [REST](https://yousef27h.github.io/reading-notes/301/class-07.html)|
-| 8 | class-08 | |
-| 9 | class-09 ||
-| 10 | class-10 | |
+| 8 | class-08 | [APIs](https://yousef27h.github.io/reading-notes/301/class-08.html)|
+| 9 | class-09 |[FUNCTIONAL PROGRAMMING](https://yousef27h.github.io/reading-notes/301/class-09.html)|
+| 10 | class-10 | [In memory storage](https://yousef27h.github.io/reading-notes/301/class-10.html)|
 | 11 | class-11 | |
 | 12 | class-12 | |
 | 13 | class-13 | |
