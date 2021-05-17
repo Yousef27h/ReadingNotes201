@@ -48,7 +48,7 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 8 | class-08 | [APIs](https://yousef27h.github.io/reading-notes/301/class-08.html)|
 | 9 | class-09 |[FUNCTIONAL PROGRAMMING](https://yousef27h.github.io/reading-notes/301/class-09.html)|
 | 10 | class-10 | [In memory storage](https://yousef27h.github.io/reading-notes/301/class-10.html)|
-| 11 | class-11 | |
+| 11 | class-11 | [Auth](https://yousef27h.github.io/reading-notes/301/class-11.html)|
 | 12 | class-12 | [SQL vs NoSQL](https://yousef27h.github.io/reading-notes/301/class-12.html)|
 | 13 | class-13 | |
 | 14 | class-14 ||
