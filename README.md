@@ -58,7 +58,7 @@ This repository contains reading notes summarize the reading tasks during softwa
 
 | No. | Subject | Link |
 |-----|-----|-----|
-| 1 | class-01 | |
+| 1 | class-01 | [Java Basics](https://yousef27h.github.io/reading-notes/401/class-01.html)|
 | 2 | class-02 | |
 | 3 | class-03 | |
 | 4 | class-04 | |

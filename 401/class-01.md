@@ -70,3 +70,7 @@ class BlockDemo {
      }
 }
 ```
+
+# Compiling
+
+__Compiling__ is the process of converting high level language (such as Java or C#) into machine language (which is basically putting everything in 1's and 0's). The program that translates high level language into machine language is called __Compiler__.
