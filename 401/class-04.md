@@ -2,114 +2,41 @@
 
 ## Objects
 
-Software objects are conceptually similar to real-world objects: they too consist of state and related behavior. 
+There are two characteristics for objects: _state_ and _behavior_.
 
-Real-world objects share two characteristics: They all have state and behavior. Dogs have state (name, color, breed, hungry) and behavior (barking, fetching, wagging tail). Bicycles also have state (current gear, current pedal cadence, current speed) and behavior (changing gear, changing pedal cadence, applying brakes).
+The object stores its state in _fields_ (which they are like variables in other programming languages) and its behavior through methods (functions in some programming languages).
 
-An object stores its state in fields and exposes its behavior through methods .
+**Data encapsulation** is hiding object's state and using it's methods to perform it's interactions.
 
- Methods operate on an object's internal state and serve as the primary mechanism for object-to-object communication. Hiding internal state and requiring all interaction to be performed through an object's methods is known as _data encapsulation_.
+Object's methods  are used for changing it's state, and one's can control which values to accept for it's states.
 
- benefits of using objects in programming:
+benefits of using object oriented programming:
 
- 1- Modularity
- 
-  The source code for an object can be written and maintained independently of the source code for other objects. Once created, an object can be easily passed around inside the system.
-
- 2- Information-hiding
- 
-  By interacting only with an object's methods, the details of its internal implementation remain hidden from the outside world.
-
- 3- Code re-use
-
- If an object already exists (perhaps written by another software developer), we can use that object in our program.
-
- 4- Pluggability and debugging ease
-
- If a particular object turns out to be problematic, you can simply remove it from your application and plug in a different object as its replacement.
+1- Modularity
+2- Information-hiding
+3- Code re-use
+4- Pluggability and debugging ease
 
  ## Class
 
- A _class_ is the blueprint from which individual objects are created. And In object-oriented terms we say for example that a bicycle is an *instance of the class of objects* known as bicycles.
+A class is like a blueprint for creating objects of the same category.
 
+A class that doesn't contain _main_ method is only used to create object to be used inside an _application_.
 
-The following Bicycle class is one possible implementation of a bicycle:
+We can create sub-class, which will inherit all the fields and methods of the main class, and could add new fields and methods, class can only be a subclass for only one superclass.
 
-``` 
-class Bicycle {
-
-    int cadence = 0;
-    int speed = 0;
-    int gear = 1;
-
-    void changeCadence(int newValue) {
-         cadence = newValue;
-    }
-
-    void changeGear(int newValue) {
-         gear = newValue;
-    }
-
-    void speedUp(int increment) {
-         speed = speed + increment;   
-    }
-
-    void applyBrakes(int decrement) {
-         speed = speed - decrement;
-    }
-
-    void printStates() {
-         System.out.println("cadence:" +
-             cadence + " speed:" + 
-             speed + " gear:" + gear);
-    }
-}
-```
-
-The fields _cadence_, _speed_, and _gear_ represent the __object's state__, and __the methods__ (_changeCadence_, _changeGear_, _speedUp_ etc.) define its interaction with the outside world.
-
-Bicycle class is just the blueprint for bicycles that might be used in an application. The responsibility of creating and using new Bicycle objects belongs to some other class in your application.
-
-Here's a BicycleDemo class that creates two separate Bicycle objects and invokes their methods:
-
-```
-class BicycleDemo {
-    public static void main(String[] args) {
-
-        // Create two different 
-        // Bicycle objects
-        Bicycle bike1 = new Bicycle();
-        Bicycle bike2 = new Bicycle();
-
-        // Invoke methods on 
-        // those objects
-        bike1.changeCadence(50);
-        bike1.speedUp(10);
-        bike1.changeGear(2);
-        bike1.printStates();
-
-        bike2.changeCadence(50);
-        bike2.speedUp(10);
-        bike2.changeGear(2);
-        bike2.changeCadence(40);
-        bike2.speedUp(10);
-        bike2.changeGear(3);
-        bike2.printStates();
-    }
-}
-```
-
+We can add modifiers to the beginning of class declaration such as _public_ and _private_.
 
 
 ## Binary, Decimal and Hexadecimal Numbers
 
 ### Decimals
 
-Every digit in a decimal number has a "position", and the decimal point helps us to know which position is which.
+Every digit in a decimal number has a "position", and the decimal point helps us to know which position is which. The Decimal Number System is also called "Base 10".
 
-The position just to the left of the point is the "Ones" position. Every position further to the left is 10 times bigger, and every position further to the right is 10 times smaller.
+Number that is located to the left of the decimal point is in "Ones" Position, further to the left is x10 times bigger for every position, and every position to the right of the decimal is 10 times smaller.
 
-The Decimal Number System is also called "Base 10", because it is based on the number 10. So you start counting at 0, then 1, until you reach number 9 then you run out of digits ... so you start back at 0 again, but increase the number on the left by 1.
+
 
 
 ### Binary Numbers
