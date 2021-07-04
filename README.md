@@ -63,7 +63,7 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 3 | class-03 | [Maps, primitives, File I/O](https://yousef27h.github.io/reading-notes/401/class-03.html)|
 | 4 | class-04 | [OOP](https://yousef27h.github.io/reading-notes/401/class-04.html)|
 | 5 | class-05 | [Linked Lists](https://yousef27h.github.io/reading-notes/401/class-05.html)|
-| 6 | class-06 | |
+| 6 | class-06 |[Inheritance and Interfaces](https://yousef27h.github.io/reading-notes/401/class-06.html) |
 | 7 | class-07 | |
 | 8 | class-08 | |
 | 9 | class-09 | |
