@@ -64,9 +64,9 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 4 | class-04 | [OOP](https://yousef27h.github.io/reading-notes/401/class-04.html)|
 | 5 | class-05 | [Linked Lists](https://yousef27h.github.io/reading-notes/401/class-05.html)|
 | 6 | class-06 |[Inheritance and Interfaces](https://yousef27h.github.io/reading-notes/401/class-06.html) |
-| 7 | class-07 | [OO Design](https://yousef27h.github.io/reading-notes/401/class-07.html)|
-| 8 | class-08 | |
-| 9 | class-09 | |
+| 7 | class-07 | |
+| 8 | class-08 | [OO Design](https://yousef27h.github.io/reading-notes/401/class-08.html)|
+| 9 | class-09 | [HTTP request ](https://yousef27h.github.io/reading-notes/401/class-09.html)|
 | 10 | class-10 | |
 | 11 | class-11 | |
 | 12 | class-12 | |
