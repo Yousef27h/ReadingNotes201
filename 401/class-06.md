@@ -6,38 +6,24 @@ A class is a blueprint from which objects are created.
 
 ## Inheritance
 
-Objet-oriented programming allows classes to inherit fields and methods from other classes. In Java each class is allowed to have one direct superclass.
+Inheritance is an important pillar of OOP(Object-Oriented Programming). It is the mechanism in java by which one class is allowed to inherit the features(fields and methods) of another class.
 
-We use the keyword _extends_ follow by the name of superclass we want to inherit from:
+Inheritance is a class (superclass) that is derived from another class (subclass). Every class in java is emplicitly inherited from _Object_ class.
 
-```
-class  subClass  __extends__  superClass{
+We use the keyword _extends_ follow by the name of superclass we want to inherit from.
 
-    // new fields and methods
-
-}
-```
 
 ## Interface
 
 Methods are the interface of class with the outside world. 
 
-An interface is like a contract and it is made up of a group of methods with empty bodies. To implement any interface, all methods must appear in its source code before compiling.
+An interface is like a contract used to group related methods with empty bodies.
 
-We can define new interface just like creating classes but with using _interface_ keyword.
+We can define new interface just like creating classes but with using `interface` keyword.
 
 methods inside interface doesn't have curly braces, and are ended up with a semicolon.
 
-To use an interface, we use the keyword _implements_ after class name then the name of the interface.
-
-```
-public class className __implements__  interfaceName{
-
-    // constants if there are
-    // method signatures
-
-}
-```
+To access the interface methods, the interface must be `implemented` (kinda like inherited) by another class with the implements keyword (instead of `extends`).
 
 Unlike classes, an interface can extend any number of interfaces.
 
