@@ -73,5 +73,5 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 13 | class-13 | [Related Resources and Integration Testing](https://yousef27h.github.io/reading-notes/401/class-13.html)|
 | 14 | class-14 | [Trees](https://yousef27h.github.io/reading-notes/401/class-14.html)|
 | 15 | class-16 | [Spring Security](https://yousef27h.github.io/reading-notes/401/class-16.html)|
-| 16 | class-17 | |
+| 16 | class-17 | [Spring Authorization](https://yousef27h.github.io/reading-notes/401/class-17.html)|
 | 17 | class-18 | [Web App Security](https://yousef27h.github.io/reading-notes/401/class-18.html)|
