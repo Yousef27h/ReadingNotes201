@@ -75,3 +75,4 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 15 | class-16 | [Spring Security](https://yousef27h.github.io/reading-notes/401/class-16.html)|
 | 16 | class-17 | [Spring Authorization](https://yousef27h.github.io/reading-notes/401/class-17.html)|
 | 17 | class-18 | [Web App Security](https://yousef27h.github.io/reading-notes/401/class-18.html)|
+| 18 | class-19 | [Web App Security](https://yousef27h.github.io/reading-notes/401/class-19.html)|
