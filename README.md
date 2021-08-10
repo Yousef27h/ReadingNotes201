@@ -77,3 +77,4 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 17 | class-18 | [Web App Security](https://yousef27h.github.io/reading-notes/401/class-18.html)|
 | 18 | class-19 | [Spring and Sockets](https://yousef27h.github.io/reading-notes/401/class-19.html)|
 | 19 | class-20 | [Android Fundamentals](https://yousef27h.github.io/reading-notes/401/class-20.html)|
+| 19 | class-21 | [Intents, Activities, and SharedPreferences](https://yousef27h.github.io/reading-notes/401/class-21.html)|
