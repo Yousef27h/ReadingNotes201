@@ -79,3 +79,4 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 19 | class-20 | [Android Fundamentals](https://yousef27h.github.io/reading-notes/401/class-20.html)|
 | 20 | class-21 | [Intents, Activities, and SharedPreferences](https://yousef27h.github.io/reading-notes/401/class-21.html)|
 | 21 | class-22 | [RecyclerView](https://yousef27h.github.io/reading-notes/401/class-22.html)|
+| 21 | class-23 | [Room](https://yousef27h.github.io/reading-notes/401/class-23.html)|
