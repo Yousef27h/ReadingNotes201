@@ -80,3 +80,4 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 20 | class-21 | [Intents, Activities, and SharedPreferences](https://yousef27h.github.io/reading-notes/401/class-21.html)|
 | 21 | class-22 | [RecyclerView](https://yousef27h.github.io/reading-notes/401/class-22.html)|
 | 21 | class-23 | [Room](https://yousef27h.github.io/reading-notes/401/class-23.html)|
+| 21 | class-24 | [Espresso](https://yousef27h.github.io/reading-notes/401/class-24.html)|
