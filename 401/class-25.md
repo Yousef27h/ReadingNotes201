@@ -1,35 +1,11 @@
-# Serverless and Amplify
+#  Hash Tables
 
-## Serverless Architecture
+Terminology:
 
-Serverless is a cloud native development model that allows developers to build and run applications without having to manage servers. A cloud provider handles the routine work of provisioning, maintaining, and scaling the server infrastructure.
-
-
-Some example of available cloud services:
-
-- AWS Lambda
-- Azure Functions
-- IBM OpenWhisk
-- Oracle Fn Project
-- Kubeless
-
-
-There are many advantages of using serverless architecture over the traditional one, One of the major advantages is reduced cost. So instead of hiring a server team to maintain servers 24x7, the cost of serverless is execution-based ( only charges for the number of executions ).
-but on the other hand, to be able to use serverless functions you have to access them as private APIs, and you must set up an API Gateway, and you cannot directly access them through the usual IP.
-
-Another advantage of using serverless architecture over traditional architecture, is that setting up different environments for Serverless is as easy as setting up a single environment. You no longer need to set up dev, staging, and production machines.
-
-Serverless architecture validity and success depends on the business requirements and not necessarily technology. In that way, serverless can be very useful when used in proper place.
-
-
-## Amplify
-
-
-AWS Amplify is an open-source framework fully integrated with AWS, works with GraphQL and SQL databases, and helps front-end web and mobile developers build scalable full stack applications.
-
-There are many benefits of using it such as:
-
-- configure backends fast
-- Easily manage content
-- Easy deployment
-- Seamlessly connect frontends
+- Hash : Hashing is the process of transforming any given key or a string of characters into another value. That value could be used for either security or some other purpose.
+- Buckets : A bucket is the container in the array of hashtable. Each index in hashtable is a buckets, and each bucket could contain multiple key/value pairs if a collision occurs.
+- Collisions : A collision is when we have more than one key gets hashed to same index in hashtable.
+- Hash Function : Hashing is the process of running data through a hash function. A hash function is a mapping between a set of input values and a set of integers, known as hash values.
+- Separate Chaining : Separate chaining is a method for dealing with collisions. The hash table is an array of linked lists. Data elements that hash to the same value are stored in a linked list originating from the index equivalent of their hash value.
+- Linear Probing : Linear probing is one method for dealing with collisions. If a data element hashes to a location in the table that is already occupied, the table is searched consecutively from that location until an open location is found.
+- Linked List : A list data structure made up of nodes, each of which holds a pointer to the next list element.

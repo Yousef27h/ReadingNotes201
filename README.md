@@ -81,4 +81,5 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 21 | class-22 | [RecyclerView](https://yousef27h.github.io/reading-notes/401/class-22.html)|
 | 22 | class-23 | [Room](https://yousef27h.github.io/reading-notes/401/class-23.html)|
 | 23 | class-24 | [Espresso](https://yousef27h.github.io/reading-notes/401/class-24.html)|
-| 24 | class-25 | [Serverless and Amplify](https://yousef27h.github.io/reading-notes/401/class-25.html)|
+| 24 | class-25 | [Hashtables](https://yousef27h.github.io/reading-notes/401/class-25.html)|
+| 25 | class-26 | [Serverless and Amplify](https://yousef27h.github.io/reading-notes/401/class-26.html)|
