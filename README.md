@@ -84,3 +84,4 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 24 | class-25 | [Hashtables](https://yousef27h.github.io/reading-notes/401/class-25.html)|
 | 25 | class-26 | [Serverless and Amplify](https://yousef27h.github.io/reading-notes/401/class-26.html)|
 | 26 | class-27 | [Monetization](https://yousef27h.github.io/reading-notes/401/class-27.html)|
+| 27 | class-28 | [Graphs](https://yousef27h.github.io/reading-notes/401/class-28.html)|
