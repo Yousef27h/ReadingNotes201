@@ -83,5 +83,7 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 23 | class-24 | [Espresso](https://yousef27h.github.io/reading-notes/401/class-24.html)|
 | 24 | class-25 | [Hashtables](https://yousef27h.github.io/reading-notes/401/class-25.html)|
 | 25 | class-26 | [Serverless and Amplify](https://yousef27h.github.io/reading-notes/401/class-26.html)|
-| 26 | class-27 | [Monetization](https://yousef27h.github.io/reading-notes/401/class-27.html)|
-| 27 | class-28 | [Graphs](https://yousef27h.github.io/reading-notes/401/class-28.html)|
+| 26 | class-27 | [Amplify Connection](https://yousef27h.github.io/reading-notes/401/class-26.html)|
+| 27 | class-28 | [Monetization](https://yousef27h.github.io/reading-notes/401/class-28.html)|
+| 28 | class-29 | [Graphs](https://yousef27h.github.io/reading-notes/401/class-29.html)|
+| 29 | class-30 | [Cognito](https://yousef27h.github.io/reading-notes/401/class-30.html)|
