@@ -89,3 +89,4 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 29 | class-30 | [Cognito](https://yousef27h.github.io/reading-notes/401/class-30.html)|
 | 30 | class-31 | [Amazon S3](https://yousef27h.github.io/reading-notes/401/class-31.html)|
 | 31 | class-32 | [Amplify SNS](https://yousef27h.github.io/reading-notes/401/class-32.html)|
+| 32 | class-33 | [Kinesis](https://yousef27h.github.io/reading-notes/401/class-33.html)|
