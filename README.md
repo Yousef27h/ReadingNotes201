@@ -91,3 +91,4 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 31 | class-32 | [Amplify SNS](https://yousef27h.github.io/reading-notes/401/class-32.html)|
 | 32 | class-33 | [Kinesis](https://yousef27h.github.io/reading-notes/401/class-33.html)|
 | 33 | class-34 | [Intent Filters](https://yousef27h.github.io/reading-notes/401/class-34.html)|
+| 33 | class-35 | [Location](https://yousef27h.github.io/reading-notes/401/class-35.html)|
