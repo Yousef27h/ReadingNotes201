@@ -92,3 +92,4 @@ This repository contains reading notes summarize the reading tasks during softwa
 | 32 | class-33 | [Kinesis](https://yousef27h.github.io/reading-notes/401/class-33.html)|
 | 33 | class-34 | [Intent Filters](https://yousef27h.github.io/reading-notes/401/class-34.html)|
 | 33 | class-35 | [Location](https://yousef27h.github.io/reading-notes/401/class-35.html)|
+| 34 | class-36 | [Ethics in Tech](https://yousef27h.github.io/reading-notes/401/class-36.html)|
